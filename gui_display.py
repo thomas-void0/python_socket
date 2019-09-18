@@ -65,7 +65,7 @@ statesList = [
     '设置DHCP状态：',
     '{"dhcp":"on"}',
     '获取DHCP状态：',
-    '"get":"dhcp"}',
+    '{"get":"dhcp"}',
     '重启：',
     '{"reboot":"1"}',
     '示例：',
